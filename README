@@ -1,0 +1,22 @@
+Autor: Diego Rodrigues Teles
+Version: 1.0
+Ano: 2016
+****************************
+
+SQL Server 14`
+
+*TABLE*
+|__TB_TIMES
+   |__ID_TIME
+      |__DS_NOME
+         |__DS_ESTADO
+            |__CORES
+            
+=============================
+CRIADO EM ASP.NET
+
+Operações de CRUD (Create, Read, Update e Delete) no back-end ASP.NET MVC 5
+C#
+ASP.NET MVC 5
+Bootstrap
+JQUERY
